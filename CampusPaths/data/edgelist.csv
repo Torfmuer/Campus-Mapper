@@ -1,0 +1,78 @@
+,Chapel,Ballard,CH HWP 1
+,Dixon hall,Warren hall,DIX HWP 1,DIX HWP 2,Cowles aud,Cowles music
+,Cowles music,Cowles aud,Warren hall,Auld house,Dixon hall
+,Robinson,ROB help west,ROB help east
+,Cowles aud,Dixon hall,Cowles music,DIX HWP 2,DIX HWP 3,McEachran hall
+,Weyerhauser,HW 3,Health center
+,McEachran hall,Cowles aud,DIX HWP 3,MacKay hall
+,URec,Dornsife,Westminster hall,Merkel field 
+,MacKay hall,McEachran hall,Auld house
+,Auld house,MacKay hall,Cowles music
+,President's house,DRW OUT,Security Office
+,Pine Bowl,Track helper
+,Hardwick house,Security Office,Whit Dr Cross,The Pines
+,WALT,Graves gym,Field house
+,The Pines,Hawthorne hall,Hawth JC,Hardwick house
+,EJ,ROB help east,EJ sw help,BJ EJ JC
+,Hawthorne hall,Hawth JC,The Pines
+,Library,HW 5,HW 6
+,Hendrick hall,Stewart hall,EJ sw help,EJ ARE JC,Stew west
+,HUB,Arend hall,HW 7,HUB BOP JC,HUB ARE JC
+,Lindaman center,HW 4
+,Graves gym,HW 1,WALT,Ballard,Track helper
+,Baseball/Soccer fields,Track helper,WALT
+,Omache field,Baseball/Soccer fields,Track helper
+,Field house,Aquatics center,WALT
+,Aquatics center,HW 1,Field house
+,Merkel field,URec
+,Westminster hall,Art building,HW 1,URec,HW 2
+,Art building,Westminster hall,HW 2,Health center
+,Dornsife,DORN south street help,URec,Art building,Steam plant
+,Steam plant,Dornsife,DORN south street help,BJ hall,ROB help east
+,The Village,BJ hall,Stewart hall
+,Boppell hall,BOP OUT
+,Duvall hall,DUV OUT
+,Oliver hall,OLI OUT
+,BJ hall,Steam plant,ROB help east,The Village,Stewart hall,BJ EJ JC,Stew west
+,Stewart hall,STE OUT,The Village,BJ hall,Hendrick hall
+,Arend hall,HUB,HUB BOP JC,EJ sw help,ARE STE JC,HUB ARE JC
+,Warren dorm,WH HWP 1,Cowles music,Dixon hall
+,Macmillan,HW 2,Ballard,CH HW 1
+,Ballard,Chapel,Macmillan,Graves gym
+,WH HWP 1,CH HWP 1,CH HW 1,HW 5,Warren hall,DIX HWP 1
+,CH HWP 1,WH HWP 1,CH HW 1,Chapel
+,DIX HWP 1,WH HWP 1,HW 5,Dixon hall,DIX HWP 2
+,DIX HWP 2,HW 5,Dixon hall,DIX HWP 3,Cowles aud
+,DIX HWP 3,DIX HWP 2,HW 6,HW 7,Cowles aud,McEachran hall
+,HW 7,DIX HWP 3,HW 6,HUB,EJ sw help,HUB LIB JC,DRW OUT
+,HW 6,HW 7,Library,DIX HWP 3,HW 5
+,HW 5,ROB help west,HW 6,Library,WH HWP 1,DIX HWP 1,DIX HWP 2,HW 4,HUB LIB JC
+,HW 4,HW 5,HW 3,Lindaman center,CH HW 1
+,HW 3,HW 4,CH HW 1,Weyerhauser,HW 2,ROB help west
+,HW 2,HW 3,Macmillan,HW 1,Art building,Westminster hall
+,HW 1,HW 2,Graves gym,Aquatics center,Westminster hall
+,CH HW 1,HW 3,HW 4,Macmillan,CH HWP 1,WH HWP 1
+,ROB help west,Robinson,Weyerhauser,DORN south street help,HW 5,HW 3
+,ROB help east,Robinson,EJ,EJ sw help,BJ hall,Steam plant
+,DORN south street help,ROB help west,Dornsife,Steam plant,Art building,Health center
+,EJ sw help,ROB help east,EJ,Hendrick hall,Arend hall,HW 7,HUB LIB JC,HUB ARE JC,BJ EJ JC,EJ ARE JC
+,Health center,Weyerhauser,DORN south street help,Art building
+,HUB BOP JC,HUB,BOP OUT,ARE STE JC,Arend hall,BOP OUT SIDE,HUB ARE JC
+,BOP OUT,HUB BOP JC,Boppell hall,DUV OUT
+,DUV OUT,BOP OUT,Duvall hall,OLI OUT
+,OLI OUT,DUV OUT,Oliver hall,STE OUT,VIL OUT
+,VIL OUT,BJ hall,The Village,OLI OUT
+,STE OUT,Stewart hall,OLI OUT,The Village,ARE STE JC
+,ARE STE JC,Arend hall,HUB BOP JC,STE OUT
+,Whit Dr Cross,BOP OUT SIDE,Hawth JC,Hardwick house
+,BOP OUT SIDE,HUB BOP JC,Whit Dr Cross,Boppell hall
+,Hawth JC,Hawthorne hall,The Pines,Whit Dr Cross
+,DRW OUT,MacKay hall,HW 7,President's house
+,Security Office,President's house,Hardwick house
+,Track helper,Graves gym,Ballard,Pine Bowl,Omache field,Baseball/Soccer fields
+,Warren hall,WH HWP 1,Cowles music,Dixon hall
+,HUB LIB JC,EJ sw help,HW 7,HUB ARE JC,HW 5,EJ ARE JC
+,HUB ARE JC,Arend hall,HUB BOP JC,HUB,HUB LIB JC,EJ sw help
+,BJ EJ JC,EJ sw help,EJ,BJ hall
+,EJ ARE JC,Hendrick hall,EJ sw help,HUB LIB JC
+,Stew west,Stewart hall,BJ hall
